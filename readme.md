@@ -1,5 +1,9 @@
 # e-Estonia
 
+## Object recognition for The Image Bank of Tartu
+
+### Build a model to improve the re-use and search of City of Tartu picture data.
+
 Estonian government AI testbed competition invites everyone with expertise in data science and analysis to join an experimental testbed to find solutions to real-world problems using open data. We look forward to welcoming a range of specialists to come and work with us and become part of one of the most technologically advanced government projects in Europe contributing to the development of AI Gov stack that benefits the people across the globe. The AI testbed competition encompasses various works in the fields of data science, machine learning, and language technology, that open a way to contribute and become a part of developing the open-source AI Gov-stack.
 
 Pick a competition you are interested in and help us to build the coolEST and brightEST digital state!
