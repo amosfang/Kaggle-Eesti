@@ -53,4 +53,3 @@ An example of what the submission file should look like. For every row in the te
 Etc.
 
 In the example above, we say that image with id img102 includes labels **l0**, **l1** and **l41**. All unique labels are described in `labels.csv` (read more under data section).
-![image](https://user-images.githubusercontent.com/48528755/193060717-f9ee9afe-f7eb-4e97-886a-3f7d46f4b756.png)
