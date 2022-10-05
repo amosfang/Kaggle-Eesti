@@ -1,4 +1,4 @@
-# Kaggle Estonia
+# Kaggle Eesti
 
 ## Object recognition for The Image Bank of Tartu
 
