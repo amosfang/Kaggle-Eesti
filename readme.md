@@ -1,4 +1,4 @@
-# e-Estonia
+# KAggle Estonia
 
 ## Object recognition for The Image Bank of Tartu
 
